@@ -1,0 +1,1 @@
+This codebase contains the CLAUDE skills for developers to practice independently by utilizing Claude's project and memory, for example mentoring and perform mock interview.
